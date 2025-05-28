@@ -1,1 +1,3 @@
 rootProject.name = "jsbundling"
+
+include 'plugin'
