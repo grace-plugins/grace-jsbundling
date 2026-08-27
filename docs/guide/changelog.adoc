@@ -1,0 +1,29 @@
+== What's New
+
+=== 0.1.0
+
+View on GitHub: link:{github}/releases/tag/v0.1.0[v0.1.0]
+
+* Update docs
+* Update doc.properties
+* Update Gradle jvmargs
+* Upgrade to Gradle 7.6.6
+* Update Gradle build scripts
+* Update GitHub workflows
+* Update README
+  - Add document links
+  - Add badge
+* Upgrade to Gradle 7.6.5
+* Fixed FOLDER: build/docs
+* Update github workflows - Generate and deploy the release version of docs
+* Update github workflows - Upgrade to setup-gradle@v4
+* Setup Grace docs workflow
+* Add Gradle docs task
+* Add docs for plugin
+* Revert "Upgrade to Gradle 8.6" This reverts commit 6a92395c46303b269012d59a12e26dfc34264919.
+* Upgrade to Gradle 8.6
+* Reorganize the project directory structure
+* Update github workflows
+* Remove Gradle deprecation warnings Using destinationDirectory instead of outputDir
+* Setup github workflows
+* Initial commit

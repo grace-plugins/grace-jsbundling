@@ -1,12 +1,12 @@
 Add dependency to the `build.gradle`,
 
-[source,groovy]
+[source,console,subs="attributes"]
 ----
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation "org.graceframework.plugins:jsbundling:VERSION"
+    implementation "org.graceframework.plugins:jsbundling:{version}"
 }
 ----
