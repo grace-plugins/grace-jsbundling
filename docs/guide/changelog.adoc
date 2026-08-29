@@ -1,5 +1,15 @@
 == What's New
 
+=== 0.2.0
+
+View on GitHub: link:{github}/releases/tag/v0.2.0[v0.2.0]
+
+* Add release notes for 0.2
+* Update README
+* Update usage
+* Provide Webpack installation link:{github}/issues/1[#1]
+* Bump version to 0.2.0-SNAPSHOT
+
 === 0.1.0
 
 View on GitHub: link:{github}/releases/tag/v0.1.0[v0.1.0]
