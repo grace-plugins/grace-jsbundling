@@ -19,7 +19,7 @@ import grails.plugins.Plugin
 
 class JsBundlingGrailsPlugin extends Plugin {
 
-    def version = '0.2.0-SNAPSHOT'
+    def version = '0.2.0'
     def grailsVersion = "2023.0.0 > *"
     def loadAfter = ['core']
 
