@@ -14,7 +14,7 @@ Bundle and transpile JavaScript in Grace with esbuild, rollup.js, bun, or Webpac
 
 ## Ducumentation
 
-* [0.1.x](https://plugins.graceframework.org/grace-jsbundling/0.1.x/)
+* [latest](https://plugins.graceframework.org/grace-cssbundling/latest/)
 
 ## Versions
 
