@@ -10,3 +10,10 @@ dependencies {
     implementation "org.graceframework.plugins:jsbundling:{version}"
 }
 ----
+
+Then, executing the following command, it will install Webpack to your app:
+
+[source,console]
+----
+$ grace javascript:install webpack
+----
